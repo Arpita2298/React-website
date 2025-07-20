@@ -1,3 +1,12 @@
-# React-website
+# React + Vite
 
-Here I will learn how to use React Router DOM for seamless routing, fetch API data with Axios, implement search, filter, sort functionality, and manage user input with forms. Plus, I'll explore best practices for using React 19 to create efficient, user-friendly web applications. Whether you're upgrading from React 18 or it  provides practical examples you can apply to real-life projects.
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+
+Currently, two official plugins are available:
+
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+
+## Expanding the ESLint configuration
+
+If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
